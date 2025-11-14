@@ -8,12 +8,11 @@ This project is part of the Entri Elevate program. The goal is to build and comp
 2. Explore the dataset and understand each feature  
 3. Check for missing values  
 4. Check for skewness and apply log transformation to skewed features  
-5. Split the dataset into training and testing sets  
-6. Scale only the training data using StandardScaler and apply the same scaler to test data  
-7. Train multiple regression models  
-8. Evaluate models using MAE, MSE, RMSE, and R² score  
-9. Check for overfitting using Train R² vs Test R²  
-10. Compare all models and select the best one  
+5. Split the dataset into training and testing sets   
+6. Train multiple regression models  
+7. Evaluate models using MAE, MSE, RMSE, and R² score  
+8. Check for overfitting using Train R² vs Test R²  
+9. Compare all models and select the best one  
 
 ## Models Used
 - Linear Regression  
