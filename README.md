@@ -35,12 +35,6 @@ The Random Forest Regressor gave the best performance.
 It had the highest Test R² score and the lowest error values.  
 The model showed good generalization and did not overfit heavily.
 
-## Important Note on Scaling
-In this project, scaling was done after train-test splitting.  
-The scaler was fitted using only the training data (`scaler.fit_transform(X_train)`)  
-and then applied to the test data (`scaler.transform(X_test)`)  
-to avoid data leakage.
-
 ## Project Files
 - Jupyter Notebook (.ipynb)  
 - README.md (this file)  
