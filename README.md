@@ -1,4 +1,4 @@
-# Regression Project – California Housing (ENtri Elevate)
+# Regression Project – California Housing (Entri Elevate)
 
 ## Project Overview
 This project is part of the Entri Elevate program. The goal is to build and compare regression models to predict house prices using the California Housing dataset. The notebook includes all preprocessing steps, model training, evaluation, and a final comparison of model performance.
